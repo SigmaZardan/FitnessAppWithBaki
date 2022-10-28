@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">ThirtyDaysOfExercise</string>
+    <string name="title_1">MN Pork arms + Abs</string>
+    <string name="title_2">Legs superset</string>
+    <string name="title_3">Legs plus back</string>
+    <string name="title_4">Strength-Cardio plus kick boxing</string>
+    <string name="title_5">Chest plus Arms</string>
+    <string name="title_6">MN Beef and Full Body Pyramid</string>
+    <string name="title_7">Legs plus Butt</string>
+    <string name="title_8">MN Beef HIIT Circuit</string>
+    <string name="title_9">Cardio plus Abs</string>
+
+
+    <string name = "description_1">
+        Start standing feet shoulder-width distance apart knees slightly bent, holding a single
+        dumbbell at your chest (vertically so dumbbell is touching your collarbone and sternum).
+        Lower down into a squat position, lowering your hips down parallel with your knees. Drive
+        your knees out toward your outer three toes.
+    </string>
+
+
+    <string name = "description_2">
+        Stand with feet hip-width apart, knees slightly bent. Hold one dumbbell in your left hand,
+        in front of your hip (palm is facing in towards your body).Stagger your feet, so your right
+        leg is slightly in front of your left foot. Kickstand your back left foot, left heel
+        floating off the ground. Keep 80% of your weight in your front foot, 20% in your back left
+        toe.
+    </string>
+
+    <string name = "description_3">
+        Start standing, feet wider than shoulder-width (lateral squat stance), with toes facing
+        forward or slightly turned out.Sit your hips back, bending your right knee while leaving
+        your left leg straight. Think of performing a single leg squat with your right leg while
+        your left leg remains straight. Dumbbell comes to the inside of the right foot; knees and
+        toes are pointing forward.
+    </string>
+
+    <string name = "description_4">
+        Stand with feet shoulder-width apart, holding a set of dumbbells in your hands with palms
+        facing in towards each other.With a soft bend in the knees, hinge at your hips to lower
+        your torso as you slide the dumbbells down in front of your legs. Think about pushing
+        your hips back behind you. Hinge until you feel a stretch in the back of your front
+        legs (hamstrings).
+    </string>
+
+    <string name = "description_5">
+        Start in an athletic stance or loaded squat position, with your feet shoulder-width distance
+        apart and a slight bend in your knees.With your chest upright and your core engaged, “jack”
+        your feet out into a wide squat (feet are wider than your shoulders).Start in a high plank
+        position with your shoulders stacked over your wrists. Option to place your hands on weights
+        if you have wrist pain.Hold this plank position, maintaining a straight
+       line with your body, gaze slightly in front of you.
+
+    </string>
+
+
+    <string name = "description_6">
+   Stand with your feet hip-width apart, knees slightly bent.Hinge at the hips until your torso
+        is parallel to the floor (neck in line with your spine, flat back, and belly button and
+        rib cage pulled in).
+    </string>
+
+    <string name = "description_7">
+        Stand with your feet slightly wider than shoulder-width apart, knees bent, holding a
+        dumbbell in each hand at your sides, palms facing in towards one another.Extend your
+        right arm overhead, locking out the elbow and keeping your bicep by your right ear.
+    </string>
+
+    <string name = "description_8">
+        Start standing on the right side of your mat with your feet shoulder-width apart.
+        Perform two single high knees as you move laterally to the left, driving your right
+        knee up to hip-height, then your left knee. Core is engaged.
+    </string>
+
+    <string name = "description_9">
+        Start in a high plank position with your shoulders stacked over your wrists.Hold
+        plank as you perform a shoulder tap, tapping the left shoulder with the right hand
+        and then the right shoulder with the left hand. While keep hips square and stable
+        to the mat.
+    </string>
+
+
+</resources>
